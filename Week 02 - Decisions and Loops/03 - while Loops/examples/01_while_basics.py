@@ -58,3 +58,8 @@ while True:
 # 2. Before running it, say out loud what makes section 2's loop stop.
 # 3. Write a while loop that keeps asking for a password until it equals
 #    "python123".
+
+i = 1
+while i <= 10:
+    print(i, end=" ")
+    i+=1
